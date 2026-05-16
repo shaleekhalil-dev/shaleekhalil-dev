@@ -44,4 +44,4 @@ Beyond the code, I am a multilingual author exploring the human experience throu
 ### 📫 Connect with me
 - **Portfolio:** [shaleekhalil-dev.github.io](https://shaleekhalil-dev.github.io/shalee-khalil-portfolio/)
 - **LinkedIn:** [shalee-khalil](https://www.linkedin.com/in/shalee-khalil)
-- **Email:** Shaleekhalil@yahoo.com
+
