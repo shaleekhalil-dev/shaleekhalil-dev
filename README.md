@@ -1,7 +1,7 @@
 # Hi there, I'm Shalee Khalil 👋
 ### Full-Stack Developer with a Literary Soul | Data Science Enthusiast
 
-I am a **Hybrid Strategic Leader** bridging the gap between technical precision and human depth. With over 67 professional certifications from Google, IBM, and Meta, I specialize in building digital environments that are as empathetic as they are efficient.
+I am bridging the gap between technical precision and human depth. With over 67 professional certifications from Google, IBM, and Meta, I specialize in building digital environments that are as empathetic as they are efficient.
 
 ---
 
